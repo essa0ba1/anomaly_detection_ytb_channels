@@ -13,7 +13,7 @@ data_to_model = []
 subs = st.number_input("Number of subscribers ")
 views = st.number_input("Total views ")
 videos = st.number_input("Number of videos ",)
-category = st.selectbox("Channel category ",options=['Music', 'Film & Animation', 'Education', 'Shows', 'Entertainment',
+category = st.selectbox("Channel  category ",options=['Music', 'Film & Animation', 'Education', 'Shows', 'Entertainment',
        'Gaming', 'People & Blogs', 'Sports', 'Howto & Style',
        'News & Politics', 'Comedy', 'Trailers', 'Nonprofits & Activism',
        'Science & Technology', 'Movies', 'Pets & Animals',
